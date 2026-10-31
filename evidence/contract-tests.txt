@@ -1,0 +1,10 @@
+test_authentication_missing_or_wrong (__main__.ContractTests.test_authentication_missing_or_wrong) ... ok
+test_authentication_success (__main__.ContractTests.test_authentication_success) ... ok
+test_decoding_success_and_edge_cases (__main__.ContractTests.test_decoding_success_and_edge_cases) ... ok
+test_scope_is_exactly_three_get_operations (__main__.ContractTests.test_scope_is_exactly_three_get_operations) ... ok
+test_uuid_is_version_four (__main__.ContractTests.test_uuid_is_version_four) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.014s
+
+OK

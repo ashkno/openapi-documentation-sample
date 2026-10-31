@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-31",
+  "python": "3.12.10",
+  "node": "v22.18.0",
+  "redocly": "2.72.1",
+  "source_revision": "f8ec666b4d1b654e4ff6aedd356f510dcac09f83",
+  "source_modified": false,
+  "network_requests_to_reference_service": 0
+}

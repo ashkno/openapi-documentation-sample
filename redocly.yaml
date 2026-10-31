@@ -1,0 +1,6 @@
+extends:
+  - recommended
+rules:
+  # /uuid has no application-level 4xx branch; /base64 deliberately returns 200
+  # on decoding errors. Do not invent error responses to satisfy a style rule.
+  operation-4xx-response: off
